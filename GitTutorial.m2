@@ -3,7 +3,7 @@ newPackage("GitTutorial",
          Date => "",
          Headline => "",
          Authors => {{ Name => "", Email => "", HomePage => ""}},
-         Keywords => {""},
+         Keywords => {"Tutorial"},
          AuxiliaryFiles => false,
          DebuggingMode => false
          )
