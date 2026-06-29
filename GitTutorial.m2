@@ -1,7 +1,7 @@
 newPackage("GitTutorial",
          Version => "0.1",
          Date => "",
-         Headline => "",
+         Headline => "git tutorial for Warwick workshop",
          Authors => {{ Name => "Doug Torrance",
             Email => "dtorrance9@gatech.edu",
             HomePage => "https://d-torrance.github.io"}},
