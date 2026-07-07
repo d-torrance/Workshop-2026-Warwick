@@ -5,7 +5,7 @@ newPackage("GitTutorial",
          Authors => {{ Name => "Doug Torrance",
             Email => "dtorrance9@gatech.edu",
             HomePage => "https://d-torrance.github.io"}},
-         Keywords => {""},
+         Keywords => {"Tutorial"},
          AuxiliaryFiles => false,
          DebuggingMode => false
          )
